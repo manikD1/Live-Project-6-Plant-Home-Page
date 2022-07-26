@@ -42,9 +42,9 @@
 &nbsp;
 ***
 ## **🔥Netlify Live Link🔥**
-- [Plant Home Page]()
+- [Plant Home Page](https://live-proj-6-fullstackjsbootcamp.netlify.app/)
 
 &nbsp;
 ***
 ## **📷 Post Designing Screenshot 📷**
-![]()
+![](https://github.com/manikD1/Live-Project-6-Plant-Home-Page/blob/main/Actual-Screenshot.JPG)
